@@ -4,4 +4,5 @@ Quan descargar la carpeta d'aquest projecte, pot ser no trobar les libreries, s'
 Aquest projecte:
 
 Utilitzar "GLFW_KEY_UP" i "GLFW_KEY_DOWN" per canviar les textures.
+
 Utilitzar "GLFW_KEY_LEFT" i "GLFW_KEY_RIGHT" per fer la rotació.
