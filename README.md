@@ -1,8 +1,8 @@
 # Practica1---Vector
-Quan descargar la carpeta d'aquest projecte, pot ser no trobar les libreries, s'ha de cambiar "propierties" -> "Configuration Manager" -> "platform" a (Win32) i "Active solution platform" a (x86), i s'ha de afegir la carpeta lib a la carpeta glew.
+Cuando descargar la carpeta de este proyecto, puede ser no encontrar las librerías, se debe cambiar "propierties" -> "Configuration Manager" -> "platform" en (Win32) y "Active solution platform" en (x86), y se debe añadir la carpeta lib en la carpeta Glew.
 
-Aquest projecte:
+Este proyecto:
 
-Utilitzar "GLFW_KEY_UP" i "GLFW_KEY_DOWN" per canviar les textures.
+Utilizar "GLFW_KEY_UP" y "GLFW_KEY_DOWN" para cambiar las texturas.
 
-Utilitzar "GLFW_KEY_LEFT" i "GLFW_KEY_RIGHT" per fer la rotació.
+Utilizar "GLFW_KEY_LEFT" y "GLFW_KEY_RIGHT" para hacer la rotación.
